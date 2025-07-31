@@ -2,7 +2,7 @@
 
 Uses LangChain, Ollama, and Stable Diffusion to automatically generate manga.  This is still a work-in-progress.
 
-> [!IMPORTANT] All manga generated using this tool, if published, MUST disclose that it was AI generated.
+> [!WARNING] All manga generated using this tool, if published, MUST disclose that it was AI generated.
 > 
 > More generally, please keep in mind that AI does not bring with it the artistic process, which is what makes art enjoyable and relatable (and, well... art).  Note that artwork produced by this tool is shallow in nature, albeit fun to explore and play with.
 
