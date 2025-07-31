@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+diffusers
+transformers
+accelerate
+torch
+pydantic
